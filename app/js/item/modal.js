@@ -18,7 +18,17 @@ $(document).on('ready', function(){
           var heightModal = $('.js-modal').height();
           popup.style.marginTop = '-' + heightModal/2 + 'px';               
           PopupShow(event);
-         
+    });
+    $('.js-modal-mini-open').click(function(event){
+        event.preventDefault();
+        popup = document.querySelector('.js-modal-mini');
+        close = popup.querySelector('.modal_close');
+        popup.querySelector('.button').innerText = this.innerText;
+        popup.querySelector('.modal__title').innerText = popup.querySelector('.hidden').value = this.getAttribute('data-title-modal');
+        popup.style.height = 'auto';
+        var heightModal = $('.js-modal-mini').height();
+        popup.style.marginTop = '-' + heightModal/2 + 'px';
+        PopupShow(event);
     });
 
     function PopupShow(event) {

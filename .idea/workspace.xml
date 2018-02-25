@@ -2,143 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b89019b-ac05-496a-b0a8-e0050ef193b3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Myaso.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap-3.3.2.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/stylename.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/venders/animate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/venders/jquery-ui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/venders/normalize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/stylesheet.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/titla-brus-bold.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/a1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/a2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/a3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/about.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/arr-adv1.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/arr-adv2.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/arr-adv3.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/arr.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-adv.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-adv1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-benefit-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-benefit.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-city.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-footer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-format.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-fs-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-fs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-slider.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/book.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/city.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/f1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/f2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/f3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-fb.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-inst.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-phone-w.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-phone.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-vk.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/logo-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet1-hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet2-hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet3-hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pattern-red.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pattern.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/qq.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/seller.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/item/modal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/item/post.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/item/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/js-main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/venders/jquery-1.12.4.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/venders/jquery-ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/venders/wow.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/about.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/advantages.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/benefit.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/bottom-btn.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/button.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/city.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/first-screen.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/format.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/input.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/main-footer.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/main-header.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/modal.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/navbar.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/package.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/slider.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/mixins.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/scaffolding.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/variables.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/big-chrome.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/big-firefox.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/big-ie8.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/big-opera.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/bkg-body.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/bkg-body.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/bkg-html.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/exclaim.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/fav-chrome.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/fav-firefox.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/fav-ie.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/fav-opera.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/oldies.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/owlcarousel/owl.carousel.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/owlcarousel/owl.carousel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/owlcarousel/owl.carousel.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/owlcarousel/owl.theme.default.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/css/style.css" afterPath="$PROJECT_DIR$/app/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change beforePath="$PROJECT_DIR$/app/js/item/modal.js" afterPath="$PROJECT_DIR$/app/js/item/modal.js" />
+      <change beforePath="$PROJECT_DIR$/app/js/item/script.js" afterPath="$PROJECT_DIR$/app/js/item/script.js" />
+      <change beforePath="$PROJECT_DIR$/app/js/js-main.js" afterPath="$PROJECT_DIR$/app/js/js-main.js" />
+      <change beforePath="$PROJECT_DIR$/app/less/blocks/advantages.less" afterPath="$PROJECT_DIR$/app/less/blocks/advantages.less" />
+      <change beforePath="$PROJECT_DIR$/app/less/blocks/bottom-btn.less" afterPath="$PROJECT_DIR$/app/less/blocks/bottom-btn.less" />
+      <change beforePath="$PROJECT_DIR$/app/less/blocks/main-footer.less" afterPath="$PROJECT_DIR$/app/less/blocks/main-footer.less" />
+      <change beforePath="$PROJECT_DIR$/app/less/blocks/modal.less" afterPath="$PROJECT_DIR$/app/less/blocks/modal.less" />
+      <change beforePath="$PROJECT_DIR$/app/less/blocks/navbar.less" afterPath="$PROJECT_DIR$/app/less/blocks/navbar.less" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -155,29 +29,40 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="84" column="81" lean-forward="false" selection-start-line="84" selection-start-column="81" selection-end-line="84" selection-end-column="81" />
+            <state relative-caret-position="202">
+              <caret line="414" column="49" lean-forward="false" selection-start-line="414" selection-start-column="49" selection-end-line="414" selection-end-column="49" />
               <folding>
-                <element signature="e#4540#4546#0" expanded="true" />
-                <element signature="e#4560#4566#0" expanded="true" />
-                <element signature="e#7011#7017#0" expanded="true" />
-                <element signature="e#7251#7257#0" expanded="true" />
-                <element signature="e#13004#13010#0" expanded="true" />
-                <element signature="e#13022#13028#0" expanded="true" />
-                <element signature="e#14072#14078#0" expanded="true" />
-                <element signature="e#17636#17642#0" expanded="true" />
-                <marker date="1519556201309" expanded="true" signature="1808:1879" ph="..." />
-                <marker date="1519556201309" expanded="true" signature="1829:1867" ph="{...}" />
+                <element signature="e#4478#4484#0" expanded="true" />
+                <element signature="e#4498#4504#0" expanded="true" />
+                <element signature="e#6949#6955#0" expanded="true" />
+                <element signature="e#7189#7195#0" expanded="true" />
+                <element signature="e#12942#12948#0" expanded="true" />
+                <element signature="e#12960#12966#0" expanded="true" />
+                <element signature="e#14010#14016#0" expanded="true" />
+                <element signature="e#17574#17580#0" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1519572918369" expanded="true" signature="1808:1879" ph="..." />
+                <marker date="1519572918369" expanded="true" signature="1829:1867" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modal.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/item/modal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modal.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/less/blocks/modal.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="114" column="27" lean-forward="false" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+            <state relative-caret-position="555">
+              <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -193,11 +78,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main-footer.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/less/blocks/main-footer.less">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/item/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="51" column="33" lean-forward="false" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+            <state relative-caret-position="130">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="advantages.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/less/blocks/advantages.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="49" column="28" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -208,6 +103,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/less/blocks/navbar.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bottom-btn.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/less/blocks/bottom-btn.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -243,6 +158,7 @@
       <find>next</find>
       <find>~</find>
       <find>owl</find>
+      <find>fix</find>
       <find>button</find>
     </findStrings>
     <dirStrings>
@@ -262,24 +178,25 @@
         <option value="$PROJECT_DIR$/app/less/blocks/first-screen.less" />
         <option value="$PROJECT_DIR$/app/less/blocks/about.less" />
         <option value="$PROJECT_DIR$/app/less/blocks/benefit.less" />
-        <option value="$PROJECT_DIR$/app/less/blocks/navbar.less" />
         <option value="$PROJECT_DIR$/app/owlcarousel/owl.carousel.css" />
         <option value="$PROJECT_DIR$/app/less/blocks/city.less" />
-        <option value="$PROJECT_DIR$/app/js/item/script.js" />
-        <option value="$PROJECT_DIR$/app/less/blocks/advantages.less" />
         <option value="$PROJECT_DIR$/app/less/blocks/button.less" />
         <option value="$PROJECT_DIR$/app/less/scaffolding.less" />
         <option value="$PROJECT_DIR$/app/less/blocks/slider.less" />
         <option value="$PROJECT_DIR$/app/less/blocks/package.less" />
         <option value="$PROJECT_DIR$/app/less/variables.less" />
-        <option value="$PROJECT_DIR$/app/less/blocks/bottom-btn.less" />
         <option value="$PROJECT_DIR$/app/less/blocks/input.less" />
-        <option value="$PROJECT_DIR$/app/js/item/modal.js" />
         <option value="$PROJECT_DIR$/app/less/blocks/format.less" />
         <option value="$PROJECT_DIR$/app/less/mixins.less" />
+        <option value="$PROJECT_DIR$/app/img/ico/i-ok.svg" />
         <option value="$PROJECT_DIR$/app/less/blocks/main-footer.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/advantages.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/navbar.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/bottom-btn.less" />
+        <option value="$PROJECT_DIR$/app/js/item/modal.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/less/blocks/modal.less" />
+        <option value="$PROJECT_DIR$/app/js/item/script.js" />
       </list>
     </option>
   </component>
@@ -339,8 +256,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="186" />
-    <option name="y" value="93" />
+    <option name="x" value="303" />
+    <option name="y" value="175" />
     <option name="width" value="1945" />
     <option name="height" value="1221" />
   </component>
@@ -398,13 +315,6 @@
               <item name="Myaso" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="less" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
@@ -479,25 +389,25 @@
       <option name="presentableId" value="Default" />
       <updated>1519358264648</updated>
       <workItem from="1519358285765" duration="22154000" />
-      <workItem from="1519400448344" duration="52001000" />
+      <workItem from="1519400448344" duration="55427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74155000" />
+    <option name="totallyTimeSpent" value="77581000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="186" y="93" width="1945" height="1221" extended-state="0" />
+    <frame x="303" y="175" width="1945" height="1221" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23717329" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30590513" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33107454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13308784" sideWeight="0.13197969" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13308784" sideWeight="0.8680203" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1945789" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13308784" sideWeight="0.1324965" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13308784" sideWeight="0.86750346" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -527,16 +437,17 @@
         <state relative-caret-position="2366">
           <caret line="91" column="45" lean-forward="false" selection-start-line="91" selection-start-column="45" selection-end-line="91" selection-end-column="45" />
           <folding>
-            <element signature="e#4540#4546#0" expanded="true" />
-            <element signature="e#4560#4566#0" expanded="true" />
-            <element signature="e#7011#7017#0" expanded="true" />
-            <element signature="e#7251#7257#0" expanded="true" />
-            <element signature="e#13004#13010#0" expanded="true" />
-            <element signature="e#13022#13028#0" expanded="true" />
-            <element signature="e#14072#14078#0" expanded="true" />
-            <element signature="e#17636#17642#0" expanded="true" />
-            <marker date="1519556201309" expanded="true" signature="1808:1879" ph="..." />
-            <marker date="1519556201309" expanded="true" signature="1829:1867" ph="{...}" />
+            <element signature="e#4478#4484#0" expanded="true" />
+            <element signature="e#4498#4504#0" expanded="true" />
+            <element signature="e#6949#6955#0" expanded="true" />
+            <element signature="e#7189#7195#0" expanded="true" />
+            <element signature="e#12942#12948#0" expanded="true" />
+            <element signature="e#12960#12966#0" expanded="true" />
+            <element signature="e#14010#14016#0" expanded="true" />
+            <element signature="e#17574#17580#0" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519572918369" expanded="true" signature="1808:1879" ph="..." />
+            <marker date="1519572918369" expanded="true" signature="1829:1867" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -697,14 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/less/blocks/navbar.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="117" column="11" lean-forward="false" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/less/blocks/benefit.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -743,22 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="647">
           <caret line="105" column="1" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="105" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/item/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/less/blocks/advantages.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="30" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -803,34 +690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/less/blocks/bottom-btn.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/less/blocks/input.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/less/blocks/button.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/item/modal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="95" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="95" />
           <folding />
         </state>
       </provider>
@@ -851,37 +714,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/ico/i-ok.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/advantages.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="49" column="28" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/less/blocks/main-footer.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="51" column="33" lean-forward="false" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        <state relative-caret-position="366">
+          <caret line="89" column="31" lean-forward="false" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/input.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/navbar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/bottom-btn.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/item/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="84" column="81" lean-forward="false" selection-start-line="84" selection-start-column="81" selection-end-line="84" selection-end-column="81" />
+        <state relative-caret-position="202">
+          <caret line="414" column="49" lean-forward="false" selection-start-line="414" selection-start-column="49" selection-end-line="414" selection-end-column="49" />
           <folding>
-            <element signature="e#4540#4546#0" expanded="true" />
-            <element signature="e#4560#4566#0" expanded="true" />
-            <element signature="e#7011#7017#0" expanded="true" />
-            <element signature="e#7251#7257#0" expanded="true" />
-            <element signature="e#13004#13010#0" expanded="true" />
-            <element signature="e#13022#13028#0" expanded="true" />
-            <element signature="e#14072#14078#0" expanded="true" />
-            <element signature="e#17636#17642#0" expanded="true" />
-            <marker date="1519556201309" expanded="true" signature="1808:1879" ph="..." />
-            <marker date="1519556201309" expanded="true" signature="1829:1867" ph="{...}" />
+            <element signature="e#4478#4484#0" expanded="true" />
+            <element signature="e#4498#4504#0" expanded="true" />
+            <element signature="e#6949#6955#0" expanded="true" />
+            <element signature="e#7189#7195#0" expanded="true" />
+            <element signature="e#12942#12948#0" expanded="true" />
+            <element signature="e#12960#12966#0" expanded="true" />
+            <element signature="e#14010#14016#0" expanded="true" />
+            <element signature="e#17574#17580#0" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519572918369" expanded="true" signature="1808:1879" ph="..." />
+            <marker date="1519572918369" expanded="true" signature="1829:1867" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/less/blocks/modal.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="114" column="27" lean-forward="false" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+        <state relative-caret-position="555">
+          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/item/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>

@@ -55,7 +55,7 @@
         <!-- ***********************HEADER + NAVIGATION ********************************- -->
 
         <header id="mainup" class="navbar_wrapper">
-            <!--Фиксированное горизонтальное меню для навигации по текущей странице -->
+            <!-- -->
             <nav class="navbar navbar-myaso navbar-fixed-top">
                 <div class="container-fluid flex">
                     <div class="navbar-header navbar-flex">
@@ -83,7 +83,7 @@
                     </div>
                     <div class="navbar-info navbar-flex">
                         <a class="phone" href="tel:+79334554356 ">+7 923 460 3777</a>
-                        <a href="#modal-1" class="button button-red js-modal-open"
+                        <a href="#modal-1" class="button button-red js-modal-mini-open"
                            data-title-modal="Заказать обратный звонок">Заказать звонок</a>
                     </div>
                 </div>
@@ -389,9 +389,9 @@
                     <img src="img/logo-1.png" alt="Мясничий">
                 </a>
                 <div class="social">
-                    <a href="#" target="_blank" class="social-ico vk"></a>
-                    <a href="#" target="_blank" class="social-ico fb"></a>
-                    <a href="#" target="_blank" class="social-ico inst"></a>
+                    <a href="https://vk.com/myasnichiy24" target="_blank" class="social-ico vk"></a>
+                    <a href="https://ok.ru/myasnichiy" target="_blank" class="social-ico ok"></a>
+                    <a href="https://www.instagram.com/myasnichii/" target="_blank" class="social-ico inst"></a>
                 </div>
             </div>
         </div>
@@ -399,6 +399,27 @@
 
     <!-- //Modals -->
     <div class="modal_wrapper"></div>
+
+    <div class="modal mini js-modal-mini" style="position: fixed;">
+        <button class="modal_close" type="button">Закрыть</button>
+        <p class="modal__title">Хочу купить</p>
+        <form action="" method="post" class="form modal__form">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <input type="text" class="user-input user-input-modal required" name="user-name" placeholder="ИМЯ">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <input type="tel" class="user-input user-input-modal required" name="user-phone"
+                           placeholder="ТЕЛЕФОН">
+                </div>
+            </div>
+            <button class="button button-green button-modal" type="submit">Оставить заявку</button>
+            <p class="text">Нажав на кнопку, вы даете согласие на обработку своих персональных данных</p>
+            <input type="text" class="hidden" value="Хочу купить">
+        </form>
+    </div>
 
 
     <div class="modal js-modal" style="position: fixed;">

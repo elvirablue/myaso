@@ -257,7 +257,10 @@ a {
 .main-footer .social-ico.vk {
   background-image: url(../img/ico/i-vk.svg);
   background-size: 19px auto;
-  background-position: center;
+}
+.main-footer .social-ico.ok {
+  background-image: url(../img/ico/i-ok.svg);
+  background-size: 10px auto;
 }
 .main-footer .social-ico.fb {
   background-image: url(../img/ico/i-fb.svg);
@@ -403,6 +406,7 @@ a {
   text-transform: none;
 }
 .navbar-myaso {
+  position: absolute !important;
   height: 140px;
   background-color: transparent;
   padding-top: 30px;
@@ -635,6 +639,7 @@ a {
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
   }
   .navbar-fixed-top {
+    position: absolute !important;
     top: 0;
     border-width: 0 0 1px;
   }
@@ -1244,10 +1249,10 @@ a {
 .advantages__item {
   padding: 25px 10px;
   text-align: center;
-  cursor: pointer;
 }
 @media (max-width: 767px) {
   .advantages__item {
+    background-color: #fff;
     padding: 25px 0;
     max-width: 450px;
     margin: 0 auto;
@@ -1317,7 +1322,6 @@ a {
 }
 @media (max-width: 767px) {
   .advantages__description {
-    display: block !important;
     position: static;
     width: 100%;
     margin: 0 0 20px !important;
@@ -1800,6 +1804,8 @@ a {
   }
 }
 .container-fluid.bottom-btn {
+  position: relative;
+  z-index: 10;
   margin: 70px auto 100px;
   text-align: center;
 }
@@ -1877,6 +1883,10 @@ a {
   content: "";
   display: table;
   clear: both;
+}
+.modal.mini {
+  width: 450px;
+  margin-left: -225px;
 }
 @media (max-width: 767px) {
   .modal {
