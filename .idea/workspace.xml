@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b89019b-ac05-496a-b0a8-e0050ef193b3" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Myaso.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap-3.3.2.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/stylename.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/venders/animate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/venders/jquery-ui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/css/venders/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-extrabold-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/gilroy-light-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/stylesheet.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/fonts/titla-brus-bold.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/a1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/a2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/a3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/about.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/arr-adv1.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/arr-adv2.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/arr-adv3.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/arr.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/b5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-adv.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-adv1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-benefit-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-benefit.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-city.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-footer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-format.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-fs-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-fs.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-slider.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/book.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/city.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/f1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/f2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/f3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon32.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-fb.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-inst.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-phone-w.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-phone.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/ico/i-vk.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/logo-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/p9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet1-hover.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet2-hover.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet3-hover.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pacet3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pattern-red.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pattern.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/pattern.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/qq.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/img/seller.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/item/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/item/post.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/item/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/js-main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/venders/jquery-1.12.4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/venders/jquery-ui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/js/venders/wow.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/about.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/advantages.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/benefit.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/bottom-btn.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/button.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/city.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/first-screen.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/format.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/input.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/main-footer.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/main-header.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/modal.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/navbar.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/package.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/slider.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/mixins.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/scaffolding.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/big-chrome.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/big-firefox.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/big-ie8.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/big-opera.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/bkg-body.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/bkg-body.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/bkg-html.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/exclaim.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/fav-chrome.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/fav-firefox.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/fav-ie.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/images/fav-opera.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/oldies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/oldies/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/owlcarousel/owl.carousel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/owlcarousel/owl.carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/owlcarousel/owl.carousel.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/owlcarousel/owl.theme.default.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="84" column="81" lean-forward="false" selection-start-line="84" selection-start-column="81" selection-end-line="84" selection-end-column="81" />
+              <folding>
+                <element signature="e#4540#4546#0" expanded="true" />
+                <element signature="e#4560#4566#0" expanded="true" />
+                <element signature="e#7011#7017#0" expanded="true" />
+                <element signature="e#7251#7257#0" expanded="true" />
+                <element signature="e#13004#13010#0" expanded="true" />
+                <element signature="e#13022#13028#0" expanded="true" />
+                <element signature="e#14072#14078#0" expanded="true" />
+                <element signature="e#17636#17642#0" expanded="true" />
+                <marker date="1519556201309" expanded="true" signature="1808:1879" ph="..." />
+                <marker date="1519556201309" expanded="true" signature="1829:1867" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modal.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/less/blocks/modal.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="114" column="27" lean-forward="false" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/less/blocks/input.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main-footer.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/less/blocks/main-footer.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="51" column="33" lean-forward="false" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mixins.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/less/mixins.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/less/variables.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>max-w</find>
+      <find>30px</find>
+      <find>120px</find>
+      <find>toggl</find>
+      <find>250px</find>
+      <find>275</find>
+      <find>next</find>
+      <find>~</find>
+      <find>owl</find>
+      <find>button</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\HTML-Academy\ZAKAZ\Myaso\app\less</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/../Tiffany/app/index.html" />
+        <option value="$PROJECT_DIR$/app/css/stylename.css" />
+        <option value="$PROJECT_DIR$/app/less/blocks/first-screen.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/about.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/benefit.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/navbar.less" />
+        <option value="$PROJECT_DIR$/app/owlcarousel/owl.carousel.css" />
+        <option value="$PROJECT_DIR$/app/less/blocks/city.less" />
+        <option value="$PROJECT_DIR$/app/js/item/script.js" />
+        <option value="$PROJECT_DIR$/app/less/blocks/advantages.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/button.less" />
+        <option value="$PROJECT_DIR$/app/less/scaffolding.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/slider.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/package.less" />
+        <option value="$PROJECT_DIR$/app/less/variables.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/bottom-btn.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/input.less" />
+        <option value="$PROJECT_DIR$/app/js/item/modal.js" />
+        <option value="$PROJECT_DIR$/app/less/blocks/format.less" />
+        <option value="$PROJECT_DIR$/app/less/mixins.less" />
+        <option value="$PROJECT_DIR$/app/less/blocks/main-footer.less" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/less/blocks/modal.less" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>less</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>browser-sync</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>script</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="browser-sync" />
+              <dependency value="less" />
+              <dependency value="script" />
+            </dependencies>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clean</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="clean" />
+              <dependency value="less" />
+              <dependency value="script" />
+            </dependencies>
+            <task-name>build</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clear</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="watch" />
+            </dependencies>
+            <task-name>default</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="186" />
+    <option name="y" value="93" />
+    <option name="width" value="1945" />
+    <option name="height" value="1221" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="less" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="less" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.default" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b89019b-ac05-496a-b0a8-e0050ef193b3" name="Default" comment="" />
+      <created>1519358264648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519358264648</updated>
+      <workItem from="1519358285765" duration="22154000" />
+      <workItem from="1519400448344" duration="52001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="74155000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="186" y="93" width="1945" height="1221" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23717329" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33107454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13308784" sideWeight="0.13197969" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13308784" sideWeight="0.8680203" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2366">
+          <caret line="91" column="45" lean-forward="false" selection-start-line="91" selection-start-column="45" selection-end-line="91" selection-end-column="45" />
+          <folding>
+            <element signature="e#4540#4546#0" expanded="true" />
+            <element signature="e#4560#4566#0" expanded="true" />
+            <element signature="e#7011#7017#0" expanded="true" />
+            <element signature="e#7251#7257#0" expanded="true" />
+            <element signature="e#13004#13010#0" expanded="true" />
+            <element signature="e#13022#13028#0" expanded="true" />
+            <element signature="e#14072#14078#0" expanded="true" />
+            <element signature="e#17636#17642#0" expanded="true" />
+            <marker date="1519556201309" expanded="true" signature="1808:1879" ph="..." />
+            <marker date="1519556201309" expanded="true" signature="1829:1867" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/button.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/modal.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2834">
+          <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/main-footer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/navbar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7826">
+          <caret line="301" column="17" lean-forward="false" selection-start-line="301" selection-start-column="17" selection-end-line="301" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/scaffolding.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/stylename.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/first-screen.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/main-header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kolba/app/less/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2522">
+          <caret line="97" column="1" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="97" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tiffany/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/stylename.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="343" column="16" lean-forward="false" selection-start-line="343" selection-start-column="16" selection-end-line="343" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/first-screen.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="27" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/about.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/navbar.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="117" column="11" lean-forward="false" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/benefit.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kolba/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="72" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="72" />
+          <folding>
+            <marker date="1505489782601" expanded="true" signature="1677:1735" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/owlcarousel/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2441">
+          <caret line="159" column="14" lean-forward="false" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kolba/app/owlcarousel/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="80" column="46" lean-forward="false" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Kolba/app/less/blocks/slider.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="105" column="1" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="105" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/item/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/advantages.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="30" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/slider.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/city.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="69" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/package.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/scaffolding.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/bottom-btn.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/input.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/button.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/item/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="95" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/format.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/main-footer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="51" column="33" lean-forward="false" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="84" column="81" lean-forward="false" selection-start-line="84" selection-start-column="81" selection-end-line="84" selection-end-column="81" />
+          <folding>
+            <element signature="e#4540#4546#0" expanded="true" />
+            <element signature="e#4560#4566#0" expanded="true" />
+            <element signature="e#7011#7017#0" expanded="true" />
+            <element signature="e#7251#7257#0" expanded="true" />
+            <element signature="e#13004#13010#0" expanded="true" />
+            <element signature="e#13022#13028#0" expanded="true" />
+            <element signature="e#14072#14078#0" expanded="true" />
+            <element signature="e#17636#17642#0" expanded="true" />
+            <marker date="1519556201309" expanded="true" signature="1808:1879" ph="..." />
+            <marker date="1519556201309" expanded="true" signature="1829:1867" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/less/blocks/modal.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="114" column="27" lean-forward="false" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

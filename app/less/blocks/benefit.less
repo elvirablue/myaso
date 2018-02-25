@@ -1,0 +1,63 @@
+.benefit {
+  background: url("../img/bg-benefit-1.png") no-repeat center top ;
+  background-size: auto;
+  height: 791px;
+  margin-top: 100px;
+  @media @mobil-widths {
+    height: auto;
+    padding-bottom: 40px;
+    margin-top: 60px;
+    background-size: cover;
+  }
+  * {
+    color: #fff;
+  }
+  .container-fluid {
+    padding: 0 180px;
+    @media @tablet-widths {
+      padding: 0 50px;
+    }
+    @media @mobil-widths {
+      padding: 0 20px 50px;
+    }
+  }
+  h2 {
+    padding: 60px 0;
+    @media @mobil-widths {
+      padding: 30px 0;
+    }
+
+  }
+
+  &__item {
+    .text-light(15px);
+    line-height: 1.5;
+    text-align: center;
+    padding: 95px 30px 0;
+    min-height: 220px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: top center;
+    &.b1 {background-image: url("../img/b1.png"); min-width: 300px;}
+    &.b2 {background-image: url("../img/b2.png"); min-width: 320px;}
+    &.b3 {background-image: url("../img/b3.png");}
+    &.b4 {background-image: url("../img/b4.png");}
+    &.b5 {background-image: url("../img/b5.png");}
+    @media @tablet-widths {
+      padding: 95px 10px 0;
+      &.b1, &.b2 {
+        min-width: auto;
+      }
+    }
+    @media @mobil-widths {
+      max-width: 450px;
+      margin: 0 auto;
+      padding: 20px 10px 20px 90px;
+      background-size: 80px 55px;
+      background-position: center left;
+      min-height: auto;
+      text-align: left;
+      font-size: 14px;
+    }
+  }
+}
