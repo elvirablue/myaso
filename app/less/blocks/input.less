@@ -5,6 +5,36 @@
 	position: relative;	
 }
 
+.select {
+	display: block;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	z-index: 10;
+	color: #fff;
+	background-color: transparent;
+	width: 314px;
+	min-width: 314px;
+	height: 34px;
+
+	border-radius: 17px;
+	border: 1px solid #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	select {
+		background-color: inherit;
+		font: inherit;
+		color: inherit;
+		height: inherit;
+		width: 90%;
+		border: none;
+		outline: none;
+		option {
+			color: @color-text;
+			font: inherit;
+		}
+	}
+}
 
 .user-input {
 	display: inline-block;

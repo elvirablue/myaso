@@ -1,0 +1,97 @@
+.shops {
+  position: relative;
+  padding-top: 100px;
+  @media @mobil-widths {
+    padding-top:  30px;
+  }
+  .container-fluid {
+    position: relative;
+    z-index: 11;
+  }
+  &__bg-img {
+    position: absolute;
+    z-index: 10;
+    &.s1 {
+      left: 0;
+      top: 0;
+    }
+    &.s2 {
+      right: 50%;
+      margin-right: -720px;
+      bottom: -270px;
+    }
+    @media @tablet-widths {
+      &.s1 {
+        width: 35vw;
+      }
+      &.s2 {
+        width: 60vw;
+        margin-right: -65vw;
+        bottom: -10vw;
+      }
+    }
+    @media @mobil-widths {
+      &.s1, &.s2 {display: none;}
+    }
+  }
+  &__bg-red {
+    display: block;
+    margin-top: 0px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background: url("../img/pattern-red.png") repeat center @color-red;
+    text-align: center;
+    position: relative;
+    z-index: 9;
+    @media @mobil-widths{
+      margin-top: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      min-height: auto;
+    }
+    * {color: #fff;}
+    h2 {
+      padding: 0 20px;
+    }
+    .container-fluid {
+      padding: 30px 150px;
+      @media @tablet-widths {
+        padding: 30px 50px;
+      }
+      @media @mobil-widths {
+        padding: 30px 20px;
+      }
+    }
+  }
+  &__item {
+    .text-light(15px);
+    line-height: 1.5;
+    text-align: center;
+    padding: 100px 10px 0;
+    min-height: 260px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: top center;
+    &.s1 {background-image: url("../img/s1.png");}
+    &.s2 {background-image: url("../img/s2.png");}
+    &.s3 {background-image: url("../img/s3.png");}
+    &.s4 {background-image: url("../img/s4.png");}
+    &.s5 {background-image: url("../img/s5.png");}
+    @media @tablet-widths {
+      padding: 110px 10px 0;
+      &.b1, &.b2 {
+        min-width: auto;
+      }
+    }
+    @media @mobil-widths {
+      max-width: 450px;
+      margin: 0 auto;
+      padding: 20px 10px 20px 70px;
+      background-size: 55px auto;
+      background-position: center left;
+      min-height: auto;
+      text-align: left;
+      font-size: 14px;
+    }
+  }
+}

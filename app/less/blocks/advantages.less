@@ -1,9 +1,23 @@
 .advantages {
   margin-top: 120px;
   position: relative;
-  @media @mobil-widths {
-    margin-top: 50px;
+  &.new {
+    margin-top: 190px;
+    @media @tablet-widths {
+      margin-top: 80px;
+    }
+    @media @mobil-widths {
+      margin-top: 40px;
+    }
+    .advantages__bg {
+      top: 190px;
+      z-index: 1;
+      @media @mobil-widths {
+
+      }
+    }
   }
+
   &__bg {
     width: 1800px;
     max-width: none;
@@ -88,6 +102,23 @@
     padding: 55px 75px 70px;
     text-align: center;
     position: relative;
+    &.new {
+      z-index: 2;
+      width: 900px;
+      display: block;
+      margin: 90px auto;
+      &:before {
+        background-image: url("../img/arr-adv1.svg");
+        left: 60px;
+      }
+      @media @tablet-widths {
+        width: 100%;
+        margin: 60px auto;
+      }
+      @media @mobil-widths {
+        position: relative;
+      }
+    }
 
     &:before {
       content: '';

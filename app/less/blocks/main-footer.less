@@ -1,7 +1,7 @@
 
 .main-footer {
 	position: relative;
-	padding: 0;		
+	padding: 0;
 	height: @height-footer;
 	margin-top: -@height-footer;
 	background-color: @color-bg-black;
@@ -23,6 +23,24 @@
 		@media @tablet-widths {
 			display: none;
 		}
+	}
+	&.footer-form {
+		margin-top: 0;
+		height: auto;
+	}
+
+	.select {
+		margin-top: 60px;
+		margin-bottom: 30px;
+		@media @mobil-widths {
+			min-width: auto;
+			width: 100%;
+			max-width: 320px;
+		}
+	}
+
+	h2 {
+		padding-top: 75px;
 	}
 	.row-flex {
 		display: flex;
@@ -98,7 +116,7 @@
 			background-size: 18px auto;
 		}
 	}
-	
 }
+
 
 

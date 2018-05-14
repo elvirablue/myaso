@@ -59,6 +59,35 @@ $(document).on('ready', function(){
         }
     });
 
+    $( "#selector1" ).slider({
+        range: "min",
+        value: 1000000,
+        min: 20000,
+        max: 15000000,
+        slide: function( event, ui ) {
+            var str = ui.value.toString().replace(/(\d{1,3}(?=(\d{3})+(?:\.\d|\b)))/g,"\$1 ");
+            $("#amount1").text(str);
+        }
+    });
+    $( "#selector2" ).slider({
+        range: "min",
+        value: 500,
+        min: 50,
+        max: 2000,
+        slide: function( event, ui ) {
+            $("#amount2").text( ui.value.toString().replace(/(\d{1,3}(?=(\d{3})+(?:\.\d|\b)))/g,"\$1 "));
+        }
+    });
+    $( "#selector3" ).slider({
+        range: "min",
+        value: 50,
+        min: 10,
+        max: 300,
+        slide: function( event, ui ) {
+            $("#amount3").text( ui.value);
+        }
+    });
+
 
 
 });

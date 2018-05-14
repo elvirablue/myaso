@@ -8,12 +8,12 @@
     @media @tablet-widths {
         font-size: 18px;
     }
-
     @media @mobil-widths {
         height: auto; 
         font-size: 16px;
         padding: 5px 10px;
         max-width: 350px;
+        margin: 0 auto;
     }    
 }
 .first-screen {
@@ -22,14 +22,47 @@
     background-size: auto;    
     padding-top: 165px;
     height: 900px;
+    position: relative;
     @media @tablet-widths {       
         height: 700px;
+        background-size: 1850px auto;
     }
     @media @mobil-widths {
         background-image: url(../img/bg-fs.png);
         padding-top: 130px;
         height: 600px;
+        &.new {
+            height: 700px;
+        }
+    }
 
+    .btn-play {
+        position: absolute;
+        bottom: 150px;
+        left: 50%;
+        margin-left: -125px;
+        width: 250px;
+        height: 180px;
+        background: url("../img/play.svg") no-repeat bottom center;
+        background-size: 114px;
+        cursor: pointer;
+        .text-btn-title {
+            text-align: center;
+            color: #fff;
+            .text-light(18px);
+        }
+        @media @tablet-widths {
+            bottom: -20px;
+            background-size: 100px;
+            height: 150px;
+            .text-btn-title {
+                font-size: 16px;
+            }
+        }
+        @media @mobil-widths {
+            background-size: 80px;
+            height: 130px;
+        }
     }
 
     &__header {
@@ -66,7 +99,7 @@
             line-height: 1.2;
             @media @tablet-widths { font-size: 30px;}
             @media @mobil-widths {font-size: 26px;text-align: center;}
-        }      
+        }
         
         .center {	
             padding-top: 50px;
@@ -76,6 +109,26 @@
             .text-btn-title {
                 color: #fff;
                 .text-light(14px);
+            }
+            &.new {
+                padding-top: 30px;
+                text-align: left;
+                margin-left: 0;
+                max-width: 280px;
+                @media @mobil-widths {
+                    margin-left: auto;
+                }
+                .button {
+                    width: 100%;
+                    @media @tablet-widths {
+                        width: 90%;
+                    }
+                    @media @mobil-widths {
+                        width: 100%;
+                        height: 60px;
+                        font-size: 14px;
+                    }
+                }
             }
         } 
         .button {
@@ -89,7 +142,8 @@
             text-align: center;
             height: auto;
             padding: 20px 0px 40px;
-            width: 100%;            
+            width: 100%;
+            max-width: 100%;
             text-align: left;   
             .text-btn-title {text-align: center; }
         }      

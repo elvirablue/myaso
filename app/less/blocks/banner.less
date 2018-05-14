@@ -1,0 +1,60 @@
+.banner {
+  margin-top: 80px;
+  margin-bottom: 100px;
+  min-height: 576px;
+  background: url("../img/bg-01.jpg") no-repeat top center;
+  background-size: cover;
+  @media @mobil-widths {
+    min-height: auto;
+    margin: 20px auto 40px;
+  }
+  * {
+    color: #fff;
+    text-align: center;
+  }
+  &__text1 {
+    padding-top: 130px;
+    .text-title(28px);
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  &__text2 {
+    .text-title(110px);
+    line-height: 80px;
+    text-transform: none;
+  }
+  &__text3 {
+    margin: 0 auto;
+    padding-top: 50px;
+    .text-light(18px);
+    line-height: 1.5;
+    max-width: 400px;
+  }
+  @media @tablet-widths {
+    min-height: 450px;
+    &__text1 {
+      padding-top: 100px;
+      font-size: 20px;
+    }
+    &__text2 {font-size: 90px; }
+    &__text3 {
+      font-size: 16px;
+      padding-top: 30px;
+      max-width: auto;
+    }
+  }
+  @media @mobil-widths {
+    min-height: 320px;
+    background-size: 1400px auto;
+    &__text1 {
+      padding-top: 8vw;
+      font-size: 16px;
+      white-space: normal;
+    }
+    &__text2 {font-size: 40px; }
+    &__text3 {
+      font-size: 12px;
+      padding-top: 0;
+    }
+  }
+}
