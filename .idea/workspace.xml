@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b89019b-ac05-496a-b0a8-e0050ef193b3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/index1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/banner.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/calc.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/form.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/program.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/shops.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/less/blocks/special.less" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/css/style.css" afterPath="$PROJECT_DIR$/app/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/app/js/item/script.js" afterPath="$PROJECT_DIR$/app/js/item/script.js" />
-      <change beforePath="$PROJECT_DIR$/app/js/js-main.js" afterPath="$PROJECT_DIR$/app/js/js-main.js" />
-      <change beforePath="$PROJECT_DIR$/app/less/blocks/about.less" afterPath="$PROJECT_DIR$/app/less/blocks/about.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/blocks/advantages.less" afterPath="$PROJECT_DIR$/app/less/blocks/advantages.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/blocks/benefit.less" afterPath="$PROJECT_DIR$/app/less/blocks/benefit.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/blocks/button.less" afterPath="$PROJECT_DIR$/app/less/blocks/button.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/blocks/first-screen.less" afterPath="$PROJECT_DIR$/app/less/blocks/first-screen.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/blocks/format.less" afterPath="$PROJECT_DIR$/app/less/blocks/format.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/blocks/input.less" afterPath="$PROJECT_DIR$/app/less/blocks/input.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/blocks/main-footer.less" afterPath="$PROJECT_DIR$/app/less/blocks/main-footer.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/mixins.less" afterPath="$PROJECT_DIR$/app/less/mixins.less" />
-      <change beforePath="$PROJECT_DIR$/app/less/scaffolding.less" afterPath="$PROJECT_DIR$/app/less/scaffolding.less" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -336,6 +316,12 @@
               <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
               <item name="Myaso" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Myaso" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Myaso" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -431,16 +417,23 @@
       <workItem from="1519358285765" duration="22154000" />
       <workItem from="1519400448344" duration="56334000" />
       <workItem from="1519657107079" duration="946000" />
-      <workItem from="1525867408795" duration="46389000" />
+      <workItem from="1525867408795" duration="46621000" />
     </task>
+    <task id="LOCAL-00001" summary="+ new">
+      <created>1526257123606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526257123606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125823000" />
+    <option name="totallyTimeSpent" value="126055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="424" y="72" width="1945" height="1221" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -449,7 +442,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1945789" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15781167" sideWeight="0.15544675" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15781167" sideWeight="0.84455323" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15781167" sideWeight="0.84455323" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -468,6 +461,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+ new" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
